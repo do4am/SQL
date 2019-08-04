@@ -6,7 +6,7 @@ https://github.com/do4am/SQL/blob/master/SQL-queries.ipynb
 
 ## Host machine runs Window 10:
 
-  * Installation MQSQL workbench (optional): https://dev.mysql.com/downloads/installer/
+  * Installation MySQL workbench (optional): https://dev.mysql.com/downloads/installer/
    
   * Installation of Ubuntu server on virtual machine to host SQL server: https://itsfoss.com/install-linux-in-virtualbox/
   
@@ -24,7 +24,7 @@ https://github.com/do4am/SQL/blob/master/SQL-queries.ipynb
 
   * Type ifconfig in terminal to see the ip address of the virtual machine (install neccesary package if asked for)
   
- ## Connect host machine to virtual machine with MySQL workbench:
+ ## Connect host machine to virtual machine with MySQL workbench: 
  
   * From Ubuntu install nmap: sudo apt install nmap
   
