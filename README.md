@@ -46,7 +46,7 @@ sudo service mysql restart (default port 3306)
   
   * From host machine, open workbench SQL to check the connection:
     Database --> Connect to Database.... \
-    Enter IPddr: 192.168.56.101 port: 3306 (by default for SQL server)\ 
+    Enter IPddr: 192.168.56.101 port: 3306 (by default for SQL server)\
     user root (for me), password\
     set schema: employees (current working databases)
     
