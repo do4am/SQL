@@ -1,4 +1,4 @@
-# SQL queries can be found here:
+# SQL queries (with Python) can be found here:
 
 https://github.com/do4am/SQL/blob/master/SQL-queries.ipynb
 
