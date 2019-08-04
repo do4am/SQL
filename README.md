@@ -1,4 +1,4 @@
-# SQL query can be found here:
+# SQL queries can be found here:
 
 https://github.com/do4am/SQL/blob/master/SQL-queries.ipynb
 
@@ -56,5 +56,7 @@ sudo service mysql restart (default port 3306)
   
   * Examples can be found here: https://dev.mysql.com/doc/connector-python/en/connector-python-example-cursor-select.html
   
-  
+## Modules:
+
+  * Pandas, mysql-connector-python 
   
