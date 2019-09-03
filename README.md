@@ -1,6 +1,8 @@
 # SQL queries (with Python) 
 
   can be found here: https://github.com/do4am/SQL/blob/master/SQL-queries.ipynb
+  
+  Mirror: https://nbviewer.jupyter.org/github/do4am/SQL/blob/master/SQL-queries.ipynb
 
 # Installation SQL server on Ubuntu 
 
